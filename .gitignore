@@ -1,0 +1,3 @@
+.env
+*.token.json
+redditrank_token.json
